@@ -2,7 +2,7 @@
 <h3 align="center">Student | Aspiring Data / AI / ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Learning+Machine+Learning+one+model+at+a+time;Turning+data+into+decisions;Currently+exploring+Deep+Learning+%26+NLP;Always+debugging%2C+never+giving+up" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+ML+pipelines+that+actually+ship;Backend+solutions+with+clean+architecture;Currently+learning+System+Design;Diving+into+RAG+pipelines+%26+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,11 +16,12 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Currently a **student**, diving deep into **Data Science, AI & Machine Learning**
-- 🔭 Working on projects that turn raw datasets into meaningful insights
-- 🌱 Currently learning **Machine Learning, Deep Learning & Data Analysis**
-- 🤝 Open to collaborating on **ML/AI projects, Kaggle competitions & research ideas**
-- 💬 Ask me about **Python, Data Analysis, ML fundamentals**
-- ⚡ Fun fact: I enjoy finding patterns in data as much as I enjoy solving puzzles
+- ❤️ I love building **ML pipelines** and **backend solutions** end-to-end — from raw data to a deployed API
+- 🌱 Currently learning **System Design** and **RAG (Retrieval-Augmented Generation) pipelines**
+- 🔭 Working on projects that turn messy datasets into models that actually ship
+- 🤝 Open to collaborating on **ML/AI projects, backend systems & research ideas**
+- 💬 Ask me about **Python, ML pipelines, backend architecture, RAG/LLMs**
+- ⚡ Fun fact: I enjoy finding patterns in data as much as I enjoy designing the systems that serve them
 
 ---
 
@@ -90,11 +91,26 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanish326&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime" />
+  <img src="https://raw.githubusercontent.com/Tanish326/Tanish326/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 </p>
+
+> This animated snake literally eats through my GitHub contribution graph 🐍 — powered by a GitHub Action, updates automatically every day. *(Renders once you add the workflow below to your profile repo — instructions in the note after this README.)*
+
+---
+
+### 🧠 Currently Building
+
+```text
+┌─────────────┐     ┌───────────────┐     ┌────────────┐     ┌──────────────┐
+│  Raw Data   │ ──▶ │  Preprocessing │ ──▶ │  ML Model  │ ──▶ │  Deployment  │
+└─────────────┘     └───────────────┘     └────────────┘     └──────────────┘
+       │                                                              │
+       └──────────────────────▶  RAG + LLM Pipeline  ◀────────────────┘
+                          (currently exploring 🔎)
+```
 
 ---
 

@@ -1,123 +1,95 @@
-<h1 align="center">Hi 👋, I'm Tanish Batra</h1>
-
-<h3 align="center">Computer Science Student • Full-Stack Developer • Machine Learning Enthusiast</h3>
+<h1 align="center">Hi there, I'm Tanish 👋</h1>
+<h3 align="center">Student | Aspiring Data / AI / ML Engineer</h3>
 
 <p align="center">
-  Passionate about building scalable applications, solving challenging problems, and continuously learning modern technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Learning+Machine+Learning+one+model+at+a+time;Turning+data+into+decisions;Currently+exploring+Deep+Learning+%26+NLP;Always+debugging%2C+never+giving+up" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tanish326">
-    <img src="https://img.shields.io/github/followers/Tanish326?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Tanish326">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="https://github.com/Tanish326"><img src="https://komarev.com/ghpvc/?username=Tanish326&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" /></a>
+  <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI%2FML-blueviolet?style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-* 🎓 Computer Science Student
-* 💻 Full-Stack Developer using **React, FastAPI & PostgreSQL**
-* 🤖 Passionate about **Machine Learning**
-* 🧩 Solving **Data Structures & Algorithms**
-* 🚀 Building real-world projects and continuously improving my development skills
+- 🎓 Currently a **student**, diving deep into **Data Science, AI & Machine Learning**
+- 🔭 Working on projects that turn raw datasets into meaningful insights
+- 🌱 Currently learning **Machine Learning, Deep Learning & Data Analysis**
+- 🤝 Open to collaborating on **ML/AI projects, Kaggle competitions & research ideas**
+- 💬 Ask me about **Python, Data Analysis, ML fundamentals**
+- ⚡ Fun fact: I enjoy finding patterns in data as much as I enjoy solving puzzles
 
 ---
 
-## 🚀 Tech Stack
-
-### Languages
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,sql" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanish326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish326&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### Frontend
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish326&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### Backend
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish326&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-### Database
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanish326&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+### 🛠️ Tech Stack
 
-### 🤖 AI-Powered Recruitment ATS Platform
-
-A modern recruitment platform built with **React**, **FastAPI**, and **PostgreSQL** featuring AI-assisted resume analysis, recruiter dashboard, candidate management, and job posting.
-
-### 💻 Online Conferencing System
-
-A full-stack web application that allows users to register, log in, create conferences, and manage meetings through an intuitive interface.
-
----
-
-## 📚 Currently Learning
-
-* 🌐 Backend Development
-* 🧠 Deep Learning
-* 🔍 Retrieval-Augmented Generation (RAG)
-* 📊 Data Structures & Algorithms
-* ⚛️ Advanced React
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanish326&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish326&theme=github-dark&hide_border=true" />
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish326&layout=compact&theme=github_dark&hide_border=true" />
+**Data / ML / AI**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Tanish326">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/tanish-batra-7033a0268/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanish%20Batra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanish326&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime" />
 </p>
 
 ---
 
-<p align="center">
-  <b>💡 "Code. Learn. Build. Repeat."</b>
-</p>
+### 📫 Connect With Me
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-
-
-
+<p align="center"><i>⭐️ From <a href="https://github.com/Tanish326">Tanish326</a> — thanks for stopping by!</i></p>

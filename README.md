@@ -76,6 +76,20 @@
 
 ---
 
+### 💡 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/tanishbatra?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/tanishbatra/">
+    <img src="https://img.shields.io/badge/LeetCode-tanishbatra-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📈 Contribution Graph
 
 <p align="center">
